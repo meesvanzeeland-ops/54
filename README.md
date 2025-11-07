@@ -12,4 +12,4 @@ Edit the content and configuration files to suit your needs. Refer to the [Jupyt
 
 ## License
 
-CC-BY-NC
+MIT License. See the [LICENSE](LICENSE) file for details.
